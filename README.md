@@ -9,16 +9,10 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="140" alt="Cute Anime GIF"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3J2Z2J6d2Z2b2Z6b3J2d3Z3b3J2d3Z3b3J2d3Z3b3J2d3Z3/g9582DNuQppxC/giphy.gif" width="160" alt="Cute Anime GIF"/>
 </p>
 
 # ✨ Приветики! Меня зовут Александр! ✨
-
-<p align="center">
-  <img src="https://svgshare.com/i/16wB.svg" width="100%" alt="Decorative Pink Frame"/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Hey,+it's+Oleksandr!+%F0%9F%92%96%E2%9C%A8;Full-Stack+%7C+UI%2FUX+%7C+Anime+%7C+Open+Source" alt="Header"/>
-  <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="160" alt="Cute Anime GIF"/>
-</p>
 
 <p align="center" style="font-size:1.2em; color:#FF69B4; background:#FFF0F6; border-radius:18px; padding:10px 0; margin:18px 0;">
   💖 Я Full-Stack разработчик из мира, где код встречается с кавайным дизайном! <br>
