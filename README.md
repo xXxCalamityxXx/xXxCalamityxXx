@@ -1,25 +1,25 @@
 <div align="center">
 
-<!-- SVG Decorative Frame -->
+<!-- SVG Decorative Top Frame -->
 <img src="https://svgshare.com/i/16wB.svg" width="100%"/>
 
+<!-- Анимированный заголовок -->
 ![Header](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F797E4&center=true&vCenter=true&width=600&lines=%D0%93%D1%8F%D1%80%D1%83+Frontend+%7C+%D0%90%D0%BD%D0%B8%D0%BC%D0%B5+%7C+%D0%94%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD+%7C+Open+Source;Hello,+I%E2%80%99m+Oleksandr!+%F0%9F%92%96%E2%9C%A8)
 
-<img src="https://media.giphy.com/media/1n4GkA4zQyG5y/giphy.gif" width="260"/>
+<img src="https://media.giphy.com/media/1n4GkA4zQyG5y/giphy.gif" width="220"/>
 
-# <span style="background:#ffe0f7;border-radius:10px;padding:4px 16px;box-shadow:0 2px 8px #f797e4;">Oleksandr Bubnov</span>
+# 🦄 <img src="https://svgshare.com/i/16xA.svg" width="32"/> **Oleksandr Bubnov** <img src="https://svgshare.com/i/16xA.svg" width="32"/>
 
-**<span style="color:#f797e4;">Full-Stack</span> | <span style="color:#f7c6e0;">Дизайн</span> | <span style="color:#ffe0f7;">Аниме</span> | <span style="color:#fffbe0;">Open Source</span>**
+**Full-Stack** | **Дизайн** | **Аниме** | **Open Source**
 
 ---
 
 ### 📝 О себе
-<ul>
-  <li>💻 <b>Full-Stack</b> разработчик</li>
-  <li>🎨 Люблю <span style="color:#f797e4;">дизайн</span> и <span style="color:#ffe0f7;">аниме</span></li>
-  <li>👑 Открыт для <span style="background:#ffe0f7;border-radius:6px;padding:2px 8px;">open source</span></li>
-  <li>🌸 Всегда учусь новому</li>
-</ul>
+
+> 💻 **Full-Stack** разработчик  
+> 🎨 Люблю <img src="https://svgshare.com/i/16yA.svg" width="18"/> дизайн и <img src="https://svgshare.com/i/16zA.svg" width="18"/> аниме  
+> 👑 Открыт для **open source**  
+> 🌸 Всегда учусь новому
 
 ---
 
@@ -53,11 +53,9 @@
 ---
 
 ### ✨ Аниме GIF
-<div style="display:flex;gap:16px;justify-content:center;">
-  <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="180"/>
-  <img src="https://media.giphy.com/media/1n4GkA4zQyG5y/giphy.gif" width="120"/>
-  <img src="https://media.giphy.com/media/12NUbkX6p4xOO4/giphy.gif" width="120"/>
-</div>
+<img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="180"/>
+<img src="https://media.giphy.com/media/1n4GkA4zQyG5y/giphy.gif" width="120"/>
+<img src="https://media.giphy.com/media/12NUbkX6p4xOO4/giphy.gif" width="120"/>
 
 ---
 
@@ -93,7 +91,7 @@
 
 _👋 Thanks 💅_
 
-<!-- Decorative SVG bottom border -->
+<!-- SVG Decorative Bottom Frame -->
 <img src="https://svgshare.com/i/16wB.svg" width="100%"/>
 
 </div>
