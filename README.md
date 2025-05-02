@@ -13,7 +13,7 @@
   <b>I do a lot of side projects and whatever</b>
 </p>
 
-<div align="center">
+<div style="background-color: white;">
   <h3>🛠️ Some things I'm familiar with</h3>
   <img src="c-original.svg" alt="C" width="40" height="40">
   <img src="csharp-original.svg" alt="C#" width="40" height="40">
