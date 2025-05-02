@@ -13,17 +13,14 @@
   <b>I do a lot of side projects and whatever</b>
 </p>
 
-<table>
-  <tr>
-    <td bgcolor="#e6e6e6"> <!-- Replace #e6e6e6 with your desired background color -->
-      <h3><b>🛠️ Some things I'm familiar with</b></h3>
-      <img src="c-original.svg" alt="C" width="40" height="40">
-      <img src="csharp-original.svg" alt="C#" width="40" height="40">
-      <img src="css3-original-wordmark.svg" alt="CSS3" width="40" height="40">
-      <img src="html5-original-wordmark.svg" alt="HTML5" width="40" height="40">
-      <img src="javascript-original.svg" alt="JavaScript" width="40" height="40">
-      <img src="microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40">
-      <img src="nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40">
-    </td>
-  </tr>
-</table>
+### 🛠️ Some things I'm familiar with
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C-0059B2?style=for-the-badge&logo=c%2b%2b&logoColor=white&color=lightblue" alt="C"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c--sharp&logoColor=white&color=lightgreen" alt="C#"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=orange" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=red" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&color=yellow" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&color=gray" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&color=green" alt="Node.js"/>
+</p>
