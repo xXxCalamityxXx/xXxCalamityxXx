@@ -13,8 +13,8 @@
   <b>I do a lot of side projects and whatever</b>
 </p>
 
-![<div>
   <h3><b>🛠️ Some things I'm familiar with</b></h3>
+  ![<div>
   <img src="c-original.svg" alt="C" width="40" height="40">
   <img src="csharp-original.svg" alt="C#" width="40" height="40">
   <img src="css3-original-wordmark.svg" alt="CSS3" width="40" height="40">
