@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="name.svg" alt="name">
+  <img src="Calamity.svg" alt="Calamity">
 </div>
