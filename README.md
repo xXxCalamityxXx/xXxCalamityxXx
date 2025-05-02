@@ -13,16 +13,17 @@
   <b>I do a lot of side projects and whatever</b>
 </p>
 
-```html
-<div>
-  <h3><b>🛠️ Some things I'm familiar with</b></h3>
-  <img src="c-original.svg" alt="C" width="40" height="40">
-  <img src="csharp-original.svg" alt="C#" width="40" height="40">
-  <img src="css3-original-wordmark.svg" alt="CSS3" width="40" height="40">
-  <img src="html5-original-wordmark.svg" alt="HTML5" width="40" height="40">
-  <img src="javascript-original.svg" alt="JavaScript" width="40" height="40">
-  <img src="microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40">
-  <img src="nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40">
-</div>
-
-
+<table>
+  <tr>
+    <td bgcolor="#e6e6e6"> <!-- Replace #e6e6e6 with your desired background color -->
+      <h3><b>🛠️ Some things I'm familiar with</b></h3>
+      <img src="c-original.svg" alt="C" width="40" height="40">
+      <img src="csharp-original.svg" alt="C#" width="40" height="40">
+      <img src="css3-original-wordmark.svg" alt="CSS3" width="40" height="40">
+      <img src="html5-original-wordmark.svg" alt="HTML5" width="40" height="40">
+      <img src="javascript-original.svg" alt="JavaScript" width="40" height="40">
+      <img src="microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40">
+      <img src="nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40">
+    </td>
+  </tr>
+</table>
