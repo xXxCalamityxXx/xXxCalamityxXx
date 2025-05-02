@@ -4,7 +4,7 @@
 </div>
 <hr>
 </p>
-![A friendly anime character waving](https://media.giphy.com/media/gUvLYSSMguiSk/giphy.gif?cid=ecf05e47k82a09zina9quxg5xydfj3xfvuzoagfikudxp1em&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+https://media.giphy.com/media/gUvLYSSMguiSk/giphy.gif?cid=ecf05e47k82a09zina9quxg5xydfj3xfvuzoagfikudxp1em&ep=v1_gifs_search&rid=giphy.gif&ct=g
 <p>
 <h3><b>✨ About Me</b></h3>
   <br>
