@@ -4,8 +4,8 @@
 </div>
 <hr>
 </p>
-<p align="center">
-  <img src="tamako.gif" alt="demo gif" width="600"/>
+<p align="left">
+  <img src="tamako.gif" alt="demo gif" width="400"/>
 </p>
 <p>
 <h3><b>✨ About Me</b></h3>
