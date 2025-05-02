@@ -4,7 +4,7 @@
 </div>
 <hr>
 </p>
-https://media.giphy.com/media/gUvLYSSMguiSk/giphy.gif?cid=ecf05e47k82a09zina9quxg5xydfj3xfvuzoagfikudxp1em&ep=v1_gifs_search&rid=giphy.gif&ct=g
+![A friendly anime character waving]([YOUR_GITHUB_REPOSITORY_GIF_URL_HERE](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG92Njd5ZnlrZWhrbjlrcG83aHZ0OXBkbDNwemFnb3A2c3Azd29pMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gUvLYSSMguiSk/giphy.gif))
 <p>
 <h3><b>✨ About Me</b></h3>
   <br>
