@@ -8,9 +8,9 @@
 <p>
 <h3><b>✨ About Me</b></h3>
   <br>
-  <b>    Hi, I'm a young Software Engineer from Ukraine</b>
+  <b>Hi, I'm a young Software Engineer from Ukraine</b>
   <br>
-  <b>    I do a lot of side projects and whatever</b>
+  <b>I do a lot of side projects and whatever</b>
 </p>
 
 <h3><b>🛠️ Some things I'm familiar with</b></h3>
