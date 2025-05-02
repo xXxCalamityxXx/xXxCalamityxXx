@@ -4,7 +4,7 @@
 </div>
 <hr>
 </p>
-![A friendly anime character waving](tomako.gif)
+![Tamako gif](tamako.gif)
 <p>
 <h3><b>✨ About Me</b></h3>
   <br>
