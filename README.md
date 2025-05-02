@@ -6,7 +6,7 @@
 </p>
 
 <p>
-<h3><b>### ✨ About Me</b></h3>
+<h3><b>✨ About Me</b></h3>
   <br>
   <b>Hi, I'm a young Software Engineer from Ukraine</b>
   <br>
