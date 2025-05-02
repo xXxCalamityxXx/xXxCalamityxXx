@@ -4,7 +4,7 @@
 </div>
 <hr>
 </p>
-![Tamako gif](tamako.gif)
+![](tamako.gif)
 <p>
 <h3><b>✨ About Me</b></h3>
   <br>
